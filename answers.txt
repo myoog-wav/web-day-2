@@ -1,0 +1,9 @@
+profile.html question responses
+1. used the background-color and hex value of #0f172a to create the blue background color.
+2. .title is the class selector, and its using a color property to change it to #38bdf8
+3. The background turns to #0284c7 while the text turns to #ffffff
+
+event.html question responses
+1. The border property creates it. The color of #ec4899 is pink. 
+2. The font size is controled by the font-size property. The assigned value is 1.8rem
+3. The border-radius property.
